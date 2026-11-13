@@ -1,0 +1,13 @@
+dist/
+*.pdb
+*.log
+*.tmp
+.vs/
+.vscode/
+Thumbs.db
+desktop.ini
+auth.json
+*auth*.json
+accounts.json
+ChatGPT-Accounts/
+.codex/
