@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/switcher.png?v=switcher-label" width="180" height="180" alt="ChatGPT Switcher icon">
+<img src="assets/switcher.png?v=switcher-label" width="160" height="160" alt="ChatGPT Switcher icon">
 
 # ChatGPT Switcher
 
