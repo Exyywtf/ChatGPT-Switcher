@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="assets/switcher.png" width="100" alt="ChatGPT Switcher icon">
+<img src="assets/switcher.png?v=switcher-label" width="100" alt="ChatGPT Switcher icon">
 
 # ChatGPT Switcher
 
@@ -12,7 +12,7 @@ Real profile pictures. Live usage limits. Shared projects or separate workspaces
 [**Download for Windows**](https://github.com/Exyywtf/chatgpt-switcher/releases/latest) · [Report a bug](https://github.com/Exyywtf/chatgpt-switcher/issues) · [Original Japanese README](README.ja.md)
 
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-171717?style=flat-square&labelColor=0d0d0d)
-![Version](https://img.shields.io/badge/Release-1.6.0-171717?style=flat-square&labelColor=0d0d0d)
+![Version](https://img.shields.io/badge/Release-1.6.1-171717?style=flat-square&labelColor=0d0d0d)
 ![Runtime](https://img.shields.io/badge/Native%20WPF-PowerShell%205.1-171717?style=flat-square&labelColor=0d0d0d)
 
 </div>

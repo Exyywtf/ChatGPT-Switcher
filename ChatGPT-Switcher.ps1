@@ -41,7 +41,7 @@ param(
 $ErrorActionPreference = 'Stop'
 try { [Console]::OutputEncoding = [System.Text.Encoding]::UTF8 } catch {}
 
-$script:AppVersion = '1.6.0'
+$script:AppVersion = '1.6.1'
 $script:AppId      = 'Alyawmu.ChatGPTSwitcher'   # taskbar grouping + jump list identity
 $script:ScriptPath = $MyInvocation.MyCommand.Path
 $script:Root       = Join-Path $env:USERPROFILE 'ChatGPT-Accounts'

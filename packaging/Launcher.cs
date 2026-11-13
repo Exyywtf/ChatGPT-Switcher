@@ -11,8 +11,8 @@ using System.Windows.Forms;
 [assembly: AssemblyProduct("ChatGPT Switcher")]
 [assembly: AssemblyDescription("Windows account switcher by Exyywtf")]
 [assembly: AssemblyCopyright("Copyright (c) 2026 Exyywtf. Includes MIT-licensed work by Alyawmu.")]
-[assembly: AssemblyVersion("1.6.0.0")]
-[assembly: AssemblyFileVersion("1.6.0.0")]
+[assembly: AssemblyVersion("1.6.1.0")]
+[assembly: AssemblyFileVersion("1.6.1.0")]
 static class Launcher {
     [DllImport("kernel32.dll")] static extern bool AttachConsole(uint processId);
     [DllImport("kernel32.dll")] static extern IntPtr GetStdHandle(int handle);
